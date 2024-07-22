@@ -103,4 +103,4 @@ Provides a reliable storage backend for product images, user data, transaction r
 
 ## Conclusion
 
-The Redis-Minio Proxy Blob Storage System represents a significant advancement in data storage solutions, blending speed, scalability, and reliability. Our project stands out for its innovative approach, practical applications, and robust technical foundation. We believe this system not only meets the current demands of data management but also paves the way for future developments in the field.
+The Redis-MinIO Proxy Blob Storage System represents a significant advancement in data storage solutions, blending speed, scalability, and reliability. Our project stands out for its innovative approach, practical applications, and robust technical foundation. We believe this system not only meets the current demands of data management but also paves the way for future developments in the field.

@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In the era of big data, efficient and scalable storage solutions are paramount. Our project, the Upstash Object Storage, addresses this need by combining the speed of Redis with the scalability and reliability of MinIO. This hybrid solution offers a unique approach to managing large datasets, ensuring high performance and seamless integration for diverse applications.
+In the era of big data, efficient and scalable storage solutions are paramount. Our project, Upstash Object Storage, addresses this need by combining the speed of Redis with the scalability and reliability of MinIO. This hybrid solution offers a unique approach to managing large datasets, ensuring high performance and seamless integration for diverse applications.
 
 ![Screenshot from 2024-07-12 15-10-56](./image.png)
 
